@@ -1,0 +1,53 @@
+# Vivado generated directories (keep source .xci and binary .xcix files).
+.Xil/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+ip_user_files/
+*.runs/
+*.sim/
+*.xpr.zip
+
+# Local tool state, logs, and reports.
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.wcfg
+*.rpt
+*.rpx
+*.html
+*.xml.bak
+*.xpr.bak
+*.backup.jou
+*.backup.log
+usage_statistics_webtalk.*
+webtalk*
+
+# Generated hardware and implementation products.
+*.bit
+*.bin
+*.dcp
+*.edf
+*.edn
+*.ltx
+*.mmi
+*.pdi
+*.xsa
+*.vcd
+*.vpd
+*.fst
+
+# Editor and operating-system state.
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
